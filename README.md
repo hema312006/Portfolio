@@ -1,6 +1,6 @@
 # hemalatha-reddy-portfolio
 
-Personal portfolio website for K. Hemalatha Reddy — AI/ML Engineer, built with Next.js 14 (App Router), Tailwind CSS, and TypeScript.
+Personal portfolio website , built with Next.js 14 (App Router), Tailwind CSS, and TypeScript.
 
 ## Overview
 
